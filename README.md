@@ -1,2 +1,2 @@
 # Internshipdemo 
-[Live Site](https://mythilinikitha.github.io/Internshipdemo/)
+[Live Site](master/interns.html)
